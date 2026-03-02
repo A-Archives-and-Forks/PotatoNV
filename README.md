@@ -180,14 +180,33 @@ Huawei P10 | `VTR` | Kirin 960
 
 #### Kirin-Tool
 
-Kirin-Tool is a tool that is able to unlock the bootloader of Kirin 710/710F, Kirin 970 and Kirin 980 devices!
-**For free of course**
+Kirin-Tool is a tool capable of unlocking the bootloader on the following devices:
 
-However, note that it only works for devices on the emui versions *9.1* and under
-(And a nice addition, it can also rebrand 980, etc for free!)
+- Kirin 710 / 710F
+- Kirin 970
+- Kirin 980
 
-https://kirintool.cfd
-https://t.me/kirintoolsupport
+It is available free of charge. Supports additional features such as free rebranding for Kirin 980 devices.
+
+Only works on EMUI 9.1 and below.
+
+- Website: https://kirintool.cfd
+- Support: https://t.me/kirintoolsupport
+
+#### HCU Client
+
+Supports a wide range of devices across multiple chipsets (Kirin, MediaTek, and Qualcomm) released up to 2021. The product is no longer actively updated, but it still performs reliably.
+
+The most affordable license plan provides 3 days of access for €19.
+
+See supported models by HCU Client [here](https://hcu-client.com/supported-models.php).
+
+> **Note**
+> 
+> [Timed licenses locked to first used PC](https://hcu-client.com/buy/#:~:text=Timed%20licenses%20locked%20to%20first%20used%20PC) for two days.
+> Therefore, it would be problematic to use such a license on more than one phone.
+
+###### Disclaimer: I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with UAB Digiteka, or any of its subsidiaries or its affiliates, including DC-Phoenix and HCU Client.
 
 ## License
 
